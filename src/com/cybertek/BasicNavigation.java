@@ -9,6 +9,8 @@ public class BasicNavigation {
 
         System.out.println("Java");
 
+        System.out.println("Terminal");
+
 
     }
 }
