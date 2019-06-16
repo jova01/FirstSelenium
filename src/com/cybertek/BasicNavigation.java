@@ -7,6 +7,8 @@ public class BasicNavigation {
 
         System.out.println("Hello Guys");
 
+        System.out.println("Java");
+
 
     }
 }
